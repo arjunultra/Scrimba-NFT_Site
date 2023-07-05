@@ -34,10 +34,10 @@ header {
     color: #9561c6;
   }
 }
-section.hero-section {
+main > section.hero-section {
   // background-color: red;
-  color: #2b2932;
-  padding: 8em 0;
+  padding: 45px 0;
   img.hero-image {
+    width: 100%;
   }
 }
